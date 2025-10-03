@@ -1,4 +1,4 @@
-#Hotel Booking Demand Classification
+# Hotel Booking Demand Classification
   Project Introduction
 
 Pembatalan reservasi (hotel booking cancellation) adalah salah satu masalah utama yang sering dihadapi oleh hotel. Tingginya tingkat pembatalan dapat menyebabkan kerugian finansial, karena kamar yang seharusnya terisi menjadi kosong.
